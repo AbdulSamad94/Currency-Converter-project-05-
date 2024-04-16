@@ -56,15 +56,15 @@ else{
     //from ruppess to every currency
     if(from == "Ruppees" && to == "Riyals" ){
         let amountAnswer = amount / 74.14;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Pakistani Ruppee to Riyal is : ${amountAnswer}`)
     }
     if(from == "Ruppees" && to == "Pounds" ){
         let amountAnswer = amount / 345.82;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Pakistani Ruppee to Pound is : ${amountAnswer}`)
     }
     if(from == "Ruppees" && to == "Dollars" ){
         let amountAnswer = amount / 278.01;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Pakistani Ruppee to Dollar is : ${amountAnswer}`)
     }
 
 
@@ -72,45 +72,45 @@ else{
     //from riyals to every currency
     if(from == "Riyals" && to == "Ruppees" ){
         let amountAnswer = amount / 0.013;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Riyal to Ruppee is : ${amountAnswer}`)
     }
     if(from == "Riyals" && to == "Pounds" ){
         let amountAnswer = amount / 4.67;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Riyal to Pounds is : ${amountAnswer}`)
     }
     if(from == "Riyals" && to == "Dollars" ){
         let amountAnswer = amount / 3.75;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Riyal to Dollar is : ${amountAnswer}`)
     }
 
 
     //from pounds to every currency
     if(from == "Pounds" && to == "Ruppees" ){
         let amountAnswer = amount / 0.0029;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Pounds to Ruppes is : ${amountAnswer}`)
     }
     if(from == "Pounds" && to == "Riyals" ){
         let amountAnswer = amount / 0.21;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Pounds to Riyal is : ${amountAnswer}`)
     }
     if(from == "Pounds" && to == "Dollars" ){
         let amountAnswer = amount / 0.80;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Pounds to Dollar is : ${amountAnswer}`)
     }
 
 
     //from dollars to every currency
     if(from == "Dollars" && to == "Ruppees" ){
         let amountAnswer = amount / 0.0036;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Dollar to Ruppes is : ${amountAnswer}`)
     }
     if(from == "Dollars" && to == "Riyals" ){
         let amountAnswer = amount / 0.27;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Dollar to Riyal is : ${amountAnswer}`)
     }
     if(from == "Dollars" && to == "Pounds" ){
         let amountAnswer = amount / 1.24;
-        console.log(amountAnswer)
+        console.log(`Your Amount From Dollar to Pound is : ${amountAnswer}`)
     }
 
 }
