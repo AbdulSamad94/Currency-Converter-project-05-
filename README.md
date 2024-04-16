@@ -1,0 +1,1 @@
+In this repostry i have made a currency converter with additional features and i have explained it in the code and i used only if-else condition for this project i made it very easy to understand so check it out and enjoy my program the npx command of this program is :npx currency-converter-by-abdul-samad
